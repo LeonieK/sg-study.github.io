@@ -1,32 +1,36 @@
+---
 layout: default
 title: Startseite
 permalink: https://leoniek.github.io/sg-study.github.io/
+---
 
 <header style="text-align:center; margin: 2rem 0;">
-  <h1>Studie zur Gesundheitsforschung</h1>
-  <p>Hilf mit, die Zukunft der Medizin zu gestalten – einfach bei unserer Studie vor Ort teilnehmen.</p>
+  <h1>Studie </h1>
+  <p>Lorem Ipsum</p>
   <a href="#details" style="font-weight:bold; text-decoration:none; color:#0366d6;">Mehr erfahren ↓</a>
 </header>
 
 <section id="teaser" style="padding: 2rem 1rem; max-width: 600px; margin: auto;">
   ### Warum mitmachen?
 
-  - **Kostenlos und unkompliziert**
-  - Deine Daten helfen bei wichtigen gesundheitlichen Forschungsfragen
-  - Vor-Ort-Betreuung und persönlicher Support
+  - **Lorem Ipsum**
+  - Lorem Ipsum
+  - Lorem Ipsum
 
-  **Jetzt Teilnehmen und helfen!**
+  **Jetzt Teilnehmen!**
 </section>
 
 <section id="details" style="padding: 2rem 1rem; max-width: 700px; margin: auto; border-top: 1px solid #eee;">
   ## Details zur Studie
 
-  Unsere Studie untersucht [kurze Beschreibung, z.B. biometrische Parameter bei Diabetes].  
-  Die Teilnahme erfolgt vor Ort in [Ort]. Dauer: ca. 30 Minuten.
+  Die Studie untersucht xyz 
+  Die Teilnahme erfolgt vor Ort in [Ort]. Dauer: ca. 90 Minuten.
 
   - Wer kann teilnehmen? [Einschlusskriterien]
   - Was passiert vor Ort? [Ablauf]
-  - **Kontakt:** studienzentrum@example.com  
+  - **Kontakt:** leonie.kallabis@smail.th-koeln.de
+
+<a href="https://zeeg.me/leoniekallabis/sg" style="font-weight:bold; text-decoration:none; color:#0366d6;">Hier Termin buchen</a>
 </section>
 
 <section id="datenschutz" style="padding: 2rem 1rem; max-width: 700px; margin: auto; border-top: 1px solid #eee;">
@@ -42,5 +46,5 @@ permalink: https://leoniek.github.io/sg-study.github.io/
 </section>
 
 <footer style="text-align: center; padding: 2rem 1rem; font-size: 0.8rem; color: #666;">
-© 2024 Forschungsinstitut Beispiel
+Serious Game Studie - Leonie Kallabis
 </footer>
