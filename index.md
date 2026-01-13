@@ -1,5 +1,6 @@
 layout: default
 title: Startseite
+permalink: https://leoniek.github.io/sg-study.github.io/
 
 <header style="text-align:center; margin: 2rem 0;">
   <h1>Studie zur Gesundheitsforschung</h1>
