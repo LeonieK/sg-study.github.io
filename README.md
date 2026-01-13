@@ -1,2 +1,9 @@
-# sg-study.github.io
-Study Landing Page
+# :video_game: Serious Game Study
+
+Teaser Text:
+* 
+* 
+
+## Detaillierte Informationen über die Studie
+
+Detaillierte Informationen inklusive Bilder etc.
