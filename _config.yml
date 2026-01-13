@@ -1,3 +1,5 @@
 title: Serious Game Studie
+plugins:
+  - jekyll-remote-theme
 remote_theme: jasper
 
