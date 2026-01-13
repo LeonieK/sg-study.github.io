@@ -1,4 +1,5 @@
 title: "Studien-Landingpage"
-description: "Nimm teil an unserer spannenden Studie!"
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
