@@ -2,6 +2,5 @@ title: "Studien-Landingpage"
 description: "Nimm teil an unserer spannenden Studie!"
 theme: minimal
 plugins:
-  - jekyll-seo-tag
   - jekyll-remote-theme
 
