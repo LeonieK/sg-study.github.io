@@ -50,8 +50,8 @@
         <li>Zur besseren Erfassung verwenden wir Elektrodenkontaktpaste, die mit Haut und Haaren in Kontakt kommt.</li>
       </ul>
       <div class="image-row">
-        <img src="/assets/images/eeg-sensoren.png" alt="EEG Sensoren" />
-        <img src="/assets/images/eda-sensoren.jpg" alt="EDA Sensoren" />
+        <img src="assets/images/eeg-sensoren.png" alt="EEG Sensoren" />
+        <img src="assets/images/eda-sensoren.jpg" alt="EDA Sensoren" />
       </div>
     </li>
     <li><strong>Studienablauf am PC</strong><br>
