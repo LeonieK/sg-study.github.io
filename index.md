@@ -2,7 +2,7 @@
 
   <h1>Playtest eines Serious Games zum Thema Klimawandel</h1>
 
-  <p>Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt.<br>
+  <p>Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt.<br></p>
 
   <p><strong>🎁 Was hast du davon?</strong></p>
   <ul>
