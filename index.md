@@ -83,7 +83,7 @@
   <h1>Datenschutzerklärung</h1>
 
   <p>
-    <a href="/assets/pdf/datenschutzerklaerung.pdf" download class="btn-primary" aria-label="Datenschutzerklärung PDF herunterladen">
+    <a href="assets/pdf/datenschutzerklaerung.pdf" download class="btn-primary" aria-label="Datenschutzerklärung PDF herunterladen">
       Datenschutzerklärung als PDF herunterladen
     </a>
   </p>
