@@ -6,27 +6,28 @@ body {
   margin: 0;
   padding: 2rem 1rem;
   line-height: 1.65;
-  max-width: 900px;
+  max-width: 1000px; /* breiterer Textbereich */
   margin-left: auto;
   margin-right: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* Begrenzung der max. Textbreite für gute Lesbarkeit */
-  max-width: 900px;    /* oder etwa 720-900px je nach Geschmack */
-  margin-left: auto;
-  margin-right: auto;
+  /* max-width auf 1000px erhöht für breiteren Text */
 }
 
 /* Nur Teaser mit abgerundetem Rechteck, Hintergrund & Schatten, Farben aus altem CSS */
 #teaser {
-  background-color: #E2E9E1;  /* sanftes hellem Grün */
+  background-color: #E2E9E1;  /* sanftes helles Grün */
   color: #3B6B43;             /* dunkles Grün als Textfarbe */
   font-weight: 500;
   padding: 3rem 3.5rem;
   border-radius: 16px;
   margin-bottom: 3rem;
-  box-shadow: none;
-  text-align: center;
+  box-shadow: 0 4px 10px rgba(54, 107, 67, 0.3); /* Schatten hinzugefügt */
+  text-align: left; /* linksbündig */
+  max-width: 900px; /* breiteres Rechteck */
+  margin-left: auto; /* zentriert */
+  margin-right: auto;
 }
 
 /* Details und Datenschutz klar und luftig getrennt, ohne Box-Hintergrund */
@@ -42,10 +43,13 @@ body {
 }
 
 /* Leichte Trennung unter #details */
+/* Trennlinie über gesamte Webseite und breiter */
 #details {
-  border-bottom: 1.5px solid #D7CFC6; /* sehr helles Erdfarben-Line */
+  border-bottom: 3px solid #D7CFC6; /* breitere Linie */
   padding-bottom: 2rem;
   margin-bottom: 3rem;
+  max-width: 100%; /* Linie über gesamte Breite */
+  box-sizing: border-box;
 }
 
 /* Etwas Abstand nach oben für Datenschutz */
@@ -59,24 +63,31 @@ h1 {
   margin-bottom: 1rem;
   letter-spacing: 0.02em;
   color: #3B6B43; /* dunkelgrün */
-  font-size: 2.75rem;
+  font-size: 2.25rem; /* kleinere Schrift */
   line-height: 1.1;
-  text-align: center;
+  text-align: left; /* linksbündig */
   margin-top: 0;
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem; /* kleinere Schrift */
   margin-top: 2.5rem;
   margin-bottom: 1.3rem;
   color: #5B4B40; /* dunkelbraun/grau */
   font-weight: 700;
   letter-spacing: normal;
+  text-align: left; /* linksbündig */
+}
+
+/* Teaser Überschriften (z.B. h1 im #teaser) nicht linksbündig sondern zentriert belassen */
+#teaser h1,
+#teaser h2 {
+  text-align: center;
 }
 
 /* Absätze, Listen und Links ebenfalls alte Farbpalette */
 p, li {
-  font-size: 1.125rem;
+  font-size: 1rem; /* etwas kleinere Schrift */
   margin-bottom: 1.3rem;
   color: #5B4B40;
 }
@@ -97,11 +108,13 @@ a:focus {
 }
 
 /* Button Styling mit alten Farben */
+/* Button zum .pdf Download mittig ausrichten */
 .btn-primary {
-  display: inline-block;
+  display: block; /* block-Element für zentrierung */
+  margin: 2rem auto 0;
   padding: 0.75rem 2.5rem;
   font-weight: 700;
-  font-size: 1.125rem;
+  font-size: 1rem; /* kleinere Schrift */
   color: #fff;
   background-color: #3B6B43;
   border-radius: 12px;
@@ -111,6 +124,7 @@ a:focus {
   transition: background-color 0.25s ease;
   cursor: pointer;
   border: none;
+  text-align: center;
 }
 
 .btn-primary:hover,
@@ -138,7 +152,7 @@ footer {
   max-width: 720px;
   margin: 5rem auto 2rem;
   padding: 0 1rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem; /* etwas kleinere Schrift */
   color: #6F6F6F;
   text-align: center;
   user-select: none;
