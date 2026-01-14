@@ -2,7 +2,7 @@
 layout: default
 title: Startseite
 ---
-<section>  
+<section id="teaser">  
 # Multimodale Evaluierung eines Serious Games zum Thema Klimawandel
 
 **Was passiert?**  
