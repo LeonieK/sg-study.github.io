@@ -122,16 +122,17 @@ p, li {
 }
 
 a {
-  color: #3B6B43;
-  font-weight: 600;
-  text-decoration: none;
-  border-bottom: 1.5px solid transparent;
-  transition: border-color 0.3s ease;
+  color: #2E5939;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: #679267;  /* farbige Unterstreichung */
+  text-underline-offset: 2px;      /* Abstand Unterstreichung zum Text */
 }
 
 a:hover,
 a:focus {
-  border-color: #679267; /* helleres grün zum hover */
+  color: #3B6B43;
+  text-decoration-color: #3B6B43;
   outline: none;
   cursor: pointer;
 }
