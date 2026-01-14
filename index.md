@@ -3,6 +3,7 @@ layout: default
 title: Startseite
 ---
 <div id="teaser">  
+
 # Multimodale Evaluierung eines Serious Games zum Thema Klimawandel
 
 **Was passiert?**  
@@ -66,6 +67,7 @@ Falls du noch Fragen hast, melde dich jederzeit gerne bei uns! (leonie.kallabis@
 
 <div>
 <div id="datenschutz" />
+	
 # Datenschutz  
 _ToDo_
 
