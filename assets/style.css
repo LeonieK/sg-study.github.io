@@ -189,7 +189,6 @@ a:focus {
 }
 
 footer {
-  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -201,4 +200,37 @@ footer {
   user-select: none;
   box-shadow: 0 -2px 6px rgba(91, 75, 64, 0.15); /* sanfter Schatten */
   z-index: 1000;
+}
+
+#scrollToTop {
+  position: fixed;
+  bottom: 2rem;         /* Abstand vom unteren Rand */
+  right: 2rem;          /* Abstand vom rechten Rand */
+  background-color: #5B4B40; /* dunkelbraun passend */
+  color: #FAF5EF;       /* helle Schriftfarbe */
+  border: none;
+  border-radius: 50%;   /* Runde Form */
+  width: 3.5rem;
+  height: 3.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(91, 75, 64, 0.4);
+  z-index: 1100;
+  user-select: none;
+
+  display: none;        /* zunächst versteckt */
+  align-items: center;
+  justify-content: center;
+}
+
+/* Sichtbar, wenn Klasse active gesetzt */
+#scrollToTop.active {
+  display: flex;
+  transition: opacity 0.3s ease;
+}
+
+#scrollToTop:hover,
+#scrollToTop:focus {
+  background-color: #3B6B43; /* dunkleres Grün beim Hover */
+  outline: none;
 }
