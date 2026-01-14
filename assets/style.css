@@ -94,37 +94,45 @@ a:focus {
 }
 
 .btn-primary {
-  display: inline-block;      /* Damit die Breite nur so breit ist wie der Inhalt */
+  display: inline-block;
   padding: 0.75rem 2.5rem;
   font-weight: 700;
   font-size: 1rem;
-  color: #fff;
-  background-color: #3B6B43;
-  border-radius: 12px;
+  color: #5B4B40;                      /* dunkelbraune Textfarbe passend zur Border */
+  background-color: transparent;      /* kein Hintergrund */
+  border: 4px solid #5B4B40;          /* dicke dunkelbraune Border */
+  border-radius: 16px;                /* gleiche Abrundung wie #teaser */
+  box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4); /* passender Schatten */
   text-decoration: none;
   user-select: none;
-  box-shadow: none;
-  transition: background-color 0.25s ease;
+  transition: background-color 0.25s ease, color 0.25s ease;
   cursor: pointer;
-  border: none;
-  
-  /* Zentrierung des Buttons in einem Block-Container */
   margin: 2rem auto 0;
-  text-align: center;  /* Text im Button zentriert */
+  text-align: center;
+  /* Spezifisch für Zentrierung */
+  margin-left: auto;
+  margin-right: auto;
 }
 
+/* Hover- und Fokus-Effekte */
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #679267; /* helleres grün */
+  background-color: #5B4B40;       /* dunkelbraun Hintergrund beim Hover */
+  color: #FAF5EF;                  /* helle Textfarbe beim Hover */
   outline: none;
 }
 
-/* Bild Container */
 .image-row {
   display: flex;
   justify-content: center;
   gap: 2rem;
   margin: 2rem 0 3rem;
+
+  background-color: transparent;        /* kein Hintergrund */
+  border: 4px solid #5B4B40;            /* dunkelbraune, dicke Border */
+  border-radius: 16px;                   /* abgerundete Ecken passend */
+  box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4); /* passender Schatten */
+  padding: 1rem;                        /* etwas Innenabstand für die Bilder */
 }
 
 .image-row img {
