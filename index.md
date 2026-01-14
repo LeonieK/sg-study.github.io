@@ -14,7 +14,7 @@
   <p><strong>🎮 Du hast Lust eine*r von 60 Personen zu sein die unser Spiel testen?</strong><br></p>
   
   <p>Besuche uns dafür am 📍Campus Südstadt der TH Köln (Claudiusstraße 1). Der Test dauert maximal 90 Minuten und findet direkt vor Ort statt. 
-  Weiter unten kannst du deinen Termin buchen. <a href="#buchung">👇</a></p>
+  Weiter unten kannst du deinen Termin buchen. 👇</p>
 
   <p><strong>👥 Wer kann teilnehmen?</strong></p>
   <ul>
