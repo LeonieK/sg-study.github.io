@@ -25,7 +25,7 @@
   Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke genutzt. Die ausführliche <a href="#datenschutz">Datenschutzerklärung</a> findest du ebenfalls hier auf der Seite.</p>
 
   <div style="text-align:center; margin: 2rem 0;">
-    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">Termin📅 buchen</a>
+    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin buchen</a>
   </div>
 
 </div>
