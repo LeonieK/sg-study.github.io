@@ -312,6 +312,7 @@
   <p>Die Teilnahme an dem Forschungsprojekt ist freiwillig. Wenn Sie die Teilnahme ablehnen oder abbrechen, Ihre Einwilligung widerrufen oder beschränken, können Sie ggf. nicht an dem Forschungsprojekt teilnehmen. Nachteile entstehen Ihnen hierdurch nicht.</p>
 
 </div>
+</div>
 <button id="scrollToTop" title="Nach oben scrollen" aria-label="Nach oben scrollen">⬆️</button>
 
 <script>
@@ -332,8 +333,6 @@
     });
   });
 </script>
-
-</div>
 
 <footer style="text-align: center; padding: 2rem 1rem; font-size: 0.8rem; color: #666;">
   Serious Game Studie - Leonie Kallabis | <a href="#teaser">Allgemeine Infos</a> | <a href="#details">Details</a> | <a href="#datenschutz">Datenschutzerklärung</a>
