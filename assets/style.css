@@ -188,13 +188,18 @@ a:focus {
   box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4);       /* passender Schatten */
 }
 
-/* Footer Farbe */
 footer {
-  max-width: 720px;
-  margin: 5rem auto 2rem;
-  padding: 0 1rem;
-  font-size: 0.75rem; /* etwas kleinere Schrift */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #FAF5EF;
   color: #6F6F6F;
+  font-size: 0.875rem;
   text-align: center;
+  padding: 1rem 0;
   user-select: none;
+  box-shadow: 0 -2px 6px rgba(101, 91, 79, 0.15);
+  border-top: 4px solid #5B4B40; /* dunkelbraune, dezente Linie oben */
+  z-index: 1000;
 }
