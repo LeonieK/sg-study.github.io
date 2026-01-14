@@ -15,18 +15,18 @@ body {
   /* max-width auf 1000px erhöht für breiteren Text */
 }
 
-/* Nur Teaser mit abgerundetem Rechteck, Hintergrund & Schatten, Farben aus altem CSS */
 #teaser {
-  background-color: #E2E9E1;  /* sanftes helles Grün */
-  color: #3B6B43;             /* dunkles Grün als Textfarbe */
+  background-color: transparent;          /* keine Hintergrundfarbe */
+  border: 4px solid #5B4B40;              /* dunkelbraune, dicke Border */
+  box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4); /* dunkler Schatten passend zur Border */
+  color: #3B6B43;                         /* bestehende Textfarbe beibehalten */
   font-weight: 500;
   padding: 3rem 3.5rem;
-  border-radius: 16px;
+  border-radius: 16px;                   
   margin-bottom: 3rem;
-  box-shadow: 0 4px 10px rgba(54, 107, 67, 0.3); /* Schatten hinzugefügt */
-  text-align: left; /* linksbündig */
-  max-width: 900px; /* breiteres Rechteck */
-  margin-left: auto; /* zentriert */
+  text-align: left;
+  max-width: 900px;
+  margin-left: auto;
   margin-right: auto;
 }
 
@@ -38,31 +38,17 @@ body {
   box-shadow: none;
   padding: 0;
   margin-bottom: 3rem;
-  max-width: 720px;
+  max-width: 900px;
   color: #5B4B40; /* dunkles Braun/Grau für Text */
 }
 
-/* Leichte Trennung unter #details */
-/* Trennlinie über gesamte Webseite und breiter */
-#details {
-  border-bottom: 3px solid #D7CFC6; /* breitere Linie */
-  padding-bottom: 2rem;
-  margin-bottom: 3rem;
-  max-width: 100%; /* Linie über gesamte Breite */
-  box-sizing: border-box;
-}
-
-/* Etwas Abstand nach oben für Datenschutz */
-#datenschutz {
-  padding-top: 2rem;
-}
 
 /* Überschrift Farben aus altem CSS */
 h1 {
   font-weight: 700;
   margin-bottom: 1rem;
   letter-spacing: 0.02em;
-  color: #3B6B43; /* dunkelgrün */
+  color: #2B2A22; /* dunkelgrün */
   font-size: 2.25rem; /* kleinere Schrift */
   line-height: 1.1;
   text-align: left; /* linksbündig */
@@ -107,14 +93,11 @@ a:focus {
   cursor: pointer;
 }
 
-/* Button Styling mit alten Farben */
-/* Button zum .pdf Download mittig ausrichten */
 .btn-primary {
-  display: block; /* block-Element für zentrierung */
-  margin: 2rem auto 0;
+  display: inline-block;      /* Damit die Breite nur so breit ist wie der Inhalt */
   padding: 0.75rem 2.5rem;
   font-weight: 700;
-  font-size: 1rem; /* kleinere Schrift */
+  font-size: 1rem;
   color: #fff;
   background-color: #3B6B43;
   border-radius: 12px;
@@ -124,7 +107,10 @@ a:focus {
   transition: background-color 0.25s ease;
   cursor: pointer;
   border: none;
-  text-align: center;
+  
+  /* Zentrierung des Buttons in einem Block-Container */
+  margin: 2rem auto 0;
+  text-align: center;  /* Text im Button zentriert */
 }
 
 .btn-primary:hover,
