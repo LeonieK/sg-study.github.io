@@ -2,9 +2,8 @@
 layout: default
 title: Startseite
 ---
-<div id="teaser">  
 
-# 🎮 Multimodale Evaluierung eines Serious Games zum Thema Klimawandel
+# 🎮 Multimodale Evaluierung eines Serious Games zum Thema Klimawandel {: #teaser}
 
 **❓Was passiert?**  
 Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt.  
@@ -30,9 +29,8 @@ Buche dir jetzt deinen Termin 📅
   <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">Jetzt teilnehmen</a>
 </div>
 
-</div>
 
-<div id="details">  
+<div id="details"></div> 
 
 # Detaillierte Informationen zur Studie  
 ## Zweck der Studie
@@ -63,15 +61,15 @@ Das Spiel thematisiert den Klimawandel. Dies kann Gefühle wie Angst, Hilflosigk
 - Du kannst deine Teilnahme jederzeit und ohne Angabe von Gründen abbrechen, ohne dass dir daraus Nachteile entstehen. 
 
 Falls du noch Fragen hast, melde dich jederzeit gerne bei uns! (leonie.kallabis@smail.th-koeln.de)
-</div>
+
 
 <div>
-<div id="datenschutz" />
+<div id="datenschutz"></div>
 	
 # Datenschutz  
 _ToDo_
 
-</div>
+
 <footer style="text-align: center; padding: 2rem 1rem; font-size: 0.8rem; color: #666;">
 Serious Game Studie - Leonie Kallabis
 </footer>
