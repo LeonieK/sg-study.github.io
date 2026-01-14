@@ -12,7 +12,8 @@
   </ul>
 
   <p><strong>🎮 Du hast Lust eine*r von 60 Personen zu sein die unser Spiel testen?</strong><br>
-  Die Studie findet vor Ort am Campus Südstadt der TH Köln (Claudiusstraße 1) statt und dauert maximal 90 Minuten.</p>
+  Besuche uns dafür am 📍Campus Südstadt der TH Köln (Claudiusstraße 1). Der Test dauert maximal 90 Minuten und findet direkt vor Ort statt. 
+  📅 Sichere dir <a href="#buchung">hier</a> deinen Slot: </p>
 
   <p><strong>👥 Wer kann teilnehmen?</strong></p>
   <ul>
@@ -23,7 +24,7 @@
   <p><strong>🔒 Datenschutz</strong><br>
   Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke genutzt. Die ausführliche <a href="#datenschutz">Datenschutzerklärung</a> findest du ebenfalls hier auf der Seite.</p>
 
-  <div style="text-align:center; margin: 2rem 0;">
+  <div id="buchung" style="text-align:center; margin: 2rem 0;">
     <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin buchen</a>
   </div>
 
