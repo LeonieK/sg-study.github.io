@@ -1,3 +1,4 @@
+<div class="content-wrapper">
 <div id="teaser">
 
   <h1>Playtest eines Serious Games zum Thema Klimawandel</h1>
@@ -331,6 +332,8 @@
     });
   });
 </script>
+
+</div>
 
 <footer style="text-align: center; padding: 2rem 1rem; font-size: 0.8rem; color: #666;">
   Serious Game Studie - Leonie Kallabis | <a href="#teaser">Allgemeine Infos</a> | <a href="#details">Details</a> | <a href="#datenschutz">Datenschutzerklärung</a>
