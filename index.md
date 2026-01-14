@@ -2,7 +2,7 @@
 layout: default
 title: Startseite
 ---
-<section id="teaser">  
+<div id="teaser">  
 # Multimodale Evaluierung eines Serious Games zum Thema Klimawandel
 
 **Was passiert?**  
@@ -29,9 +29,9 @@ Buche deinen Termin hier:
   <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">Jetzt teilnehmen</a>
 </div>
 
-</section>
+</div>
 
-<section>  
+<div>  
 <hr id="details" />
 # Detaillierte Informationen zur Studie  
 ## Zweck der Studie
@@ -62,15 +62,15 @@ Das Spiel thematisiert den Klimawandel. Dies kann Gefühle wie Angst, Hilflosigk
 - Du kannst deine Teilnahme jederzeit und ohne Angabe von Gründen abbrechen, ohne dass dir daraus Nachteile entstehen. 
 
 Falls du noch Fragen hast, melde dich jederzeit gerne bei uns! (leonie.kallabis@smail.th-koeln.de)
-</section>
+</div>
 
-<section>
+<div>
 <hr id="datenschutz" />
 
 # Datenschutz  
 _ToDo_
 
-</section>
+</div>
 <footer style="text-align: center; padding: 2rem 1rem; font-size: 0.8rem; color: #666;">
 Serious Game Studie - Leonie Kallabis
 </footer>
