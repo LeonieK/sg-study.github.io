@@ -1,12 +1,13 @@
-/* Unsichtbare Sprunganker zur Positionierung */
+#teaser,
 #details,
 #datenschutz {
-  display: block;
-  position: relative;
-  top: -100px; /* Höhe deines fixierten Headers anpassen */
-  visibility: hidden;
-  height: 0;
-  overflow: hidden;
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 2rem 2.5rem;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1.5px solid #D7CFC6;
+  box-shadow: none;
 }
 
 /* Body und Grundlayout */
