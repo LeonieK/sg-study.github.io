@@ -2,7 +2,7 @@
 layout: default
 title: Startseite
 ---
-  
+<section>  
 # Multimodale Evaluierung eines Serious Games zum Thema Klimawandel
 
 **Was passiert?**  
@@ -26,12 +26,13 @@ Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke ge
 
 Buche deinen Termin hier:
 <div style="text-align:center; margin: 2rem 0;">
-  <a href="https://deine-externe-buchungsseite.de" class="btn-primary" target="_blank" rel="noopener">Jetzt teilnehmen</a>
+  <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">Jetzt teilnehmen</a>
 </div>
 
+</section>
 
+<section>  
 <hr id="details" />
-
 # Detaillierte Informationen zur Studie  
 ## Zweck der Studie
 Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt. Das Serious Game befasst sich mit dem Thema Klimawandel. 
@@ -42,7 +43,10 @@ Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game
 	- Elektroenzephalografie (EEG) Sensoren werden vorsichtig am Kopf und Schlüsselbein befestigt.
 	- Hautleitwertmessung (EDA) erfolgt mit zwei Sensoren an einem Finger deiner rechten Hand.
 	- Zur besseren Erfassung verwenden wir Elektrodenkontaktpaste, die mit Haut und Haaren in Kontakt kommt. 
-	- <div style="text-align:center; margin: 1rem 0;"> <img src="/assets/images/eeg-sensoren.png" alt="EEG Sensoren" style="max-width: 300px; border-radius: 8px;"/> <img src="/assets/images/eda-sensoren.jpg" alt="EDA Sensoren" style="max-width: 300px; border-radius: 8px; margin-left: 1rem;"/> </div>
+	<div class="image-row">
+  		<img src="/assets/images/eeg-sensoren.png" alt="EEG Sensoren"/>
+  		<img src="/assets/images/eda-sensoren.jpg" alt="EDA Sensoren"/>
+	</div>
 4. **Studienablauf am PC** 
 	- Zuerst führen wir einen Test zur Verwendung der EEG Sensoren durch. 
 	- Anschließend kalibrieren wir das Eyetracking, welches deine Blickdaten während der Studie erfasst. 
@@ -58,12 +62,15 @@ Das Spiel thematisiert den Klimawandel. Dies kann Gefühle wie Angst, Hilflosigk
 - Du kannst deine Teilnahme jederzeit und ohne Angabe von Gründen abbrechen, ohne dass dir daraus Nachteile entstehen. 
 
 Falls du noch Fragen hast, melde dich jederzeit gerne bei uns! (leonie.kallabis@smail.th-koeln.de)
+</section>
 
+<section>
 <hr id="datenschutz" />
 
 # Datenschutz  
 _ToDo_
 
+</section>
 <footer style="text-align: center; padding: 2rem 1rem; font-size: 0.8rem; color: #666;">
 Serious Game Studie - Leonie Kallabis
 </footer>
