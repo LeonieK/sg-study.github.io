@@ -2,8 +2,7 @@
 
   <h1>🎮 Multimodale Evaluierung eines Serious Games zum Thema Klimawandel</h1>
 
-  <p><strong>❓Was passiert?</strong><br>
-  Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt.<br>
+  <p>Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt.<br>
   Weitere Infos zum Ablauf, den von uns verwendeten Sensoren etc. findest du in den <a href="#details">detaillierten Informationen zur Studie</a>.</p>
 
   <p><strong>📍Wo &amp; Wann?</strong><br>
@@ -41,8 +40,8 @@
 
   <h2>Ablauf der Studie</h2>
   <ol>
-    <li><strong>Begrüßung &amp; Standort</strong><br>Du kommst am Haupteingang der TH Köln Campus Südstadt an. Die Studienleitung (Leonie Kallabis) wird dich abholen und dich zum Labor (Raum XXXX) begleiten.</li>
-    <li><strong>Datenschutz und Einwilligung</strong><br>Im Labor gehen wir gemeinsam die Datenschutzerklärung durch. Bitte wirf vorab schon einen Blick darauf (Datenschutzerklärung Link). Nach deiner Einwilligung starten wir mit dem Anlegen der Sensoren.</li>
+    <li><strong>Begrüßung &amp; Standort</strong><br>Du kommst am Haupteingang der TH Köln Campus Südstadt an. Die Studienleitung (Leonie Kallabis) wird dich abholen und zum Labor begleiten.</li>
+    <li><strong>Datenschutz und Einwilligung</strong><br>Im Labor gehen wir gemeinsam die Datenschutzerklärung durch. Bitte wirf vorab schon einen Blick darauf (<a href="#datenschutz">Datenschutzerklärung</a>). Nach deiner Einwilligung starten wir mit dem Anlegen der Sensoren.</li>
     <li><strong>Sensoren anlegen</strong><br>
       <ul>
         <li>Elektroenzephalografie (EEG) Sensoren werden vorsichtig am Kopf und Schlüsselbein befestigt.</li>
