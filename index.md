@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Startseite
-permalink: https://leoniek.github.io/sg-study.github.io/
 ---
 <section style="max-width: 700px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #222;">
   
