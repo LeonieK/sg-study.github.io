@@ -70,6 +70,49 @@ h2 {
 #teaser h2 {
   text-align: center;
 }
+/* Body und Grundlayout mit alten Farben */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #3A3A3A; /* dunkler Grauton */
+  background-color: #FAF5EF; /* sehr helles Erdfarben-beige */
+  margin: 0;
+  padding: 2rem 1rem;
+  line-height: 1.65;
+  max-width: 1000px; /* breiterer Textbereich */
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Begrenzung der max. Textbreite für gute Lesbarkeit */
+  /* max-width auf 1000px erhöht für breiteren Text */
+}
+
+#teaser {
+  background-color: transparent;          /* keine Hintergrundfarbe */
+  border: 4px solid #5B4B40;              /* dunkelbraune, dicke Border */
+  box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4); /* dunkler Schatten passend zur Border */
+  color: #3B6B43;                         /* bestehende Textfarbe beibehalten */
+  font-weight: 500;
+  padding: 3rem 3.5rem;
+  border-radius: 16px;                   
+  margin-bottom: 3rem;
+  text-align: left;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Details und Datenschutz klar und luftig getrennt, ohne Box-Hintergrund */
+/* Farbig zurückgenommen, nur Abstand und ggf. dezente Linie */
+#details, #datenschutz {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin-bottom: 3rem;
+  max-width: 900px;
+  color: #5B4B40; /* dunkles Braun/Grau für Text */
+}
 
 /* Absätze, Listen und Links ebenfalls alte Farbpalette */
 p, li {
