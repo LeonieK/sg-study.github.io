@@ -29,7 +29,7 @@ Buche dir jetzt deinen Termin 📅
   <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">Jetzt teilnehmen</a>
 </div>
 	
-# Detaillierte Informationen zur Studie {: #details }  
+# Detaillierte Informationen zur Studie { #details }  
 ## Zweck der Studie
 Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt. Das Serious Game befasst sich mit dem Thema Klimawandel. 
 ## Ablauf der Studie 
