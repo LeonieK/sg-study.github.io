@@ -2,7 +2,6 @@
 layout: default
 title: Startseite
 ---
-<section style="max-width: 700px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #222;">
   
 # Multimodale Evaluierung eines Serious Games zum Thema Klimawandel
 
@@ -25,6 +24,7 @@ Die Studie findet vor Ort am Campus Südstadt der TH Köln (Claudiusstraße 1) s
 **Datenschutz**  
 Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke genutzt. Die ausführliche [Datenschutzerklärung](#datenschutz) findest du ebenfalls hier auf der Seite.
 
+Buche deinen Termin hier:
 <div style="text-align:center; margin: 2rem 0;">
   <a href="https://deine-externe-buchungsseite.de" class="btn-primary" target="_blank" rel="noopener">Jetzt teilnehmen</a>
 </div>
