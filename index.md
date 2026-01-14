@@ -1,12 +1,8 @@
 <div id="teaser">
 
-  <h1>🎮 Multimodale Evaluierung eines Serious Games zum Thema Klimawandel</h1>
+  <h1>Playtest eines Serious Games zum Thema Klimawandel</h1>
 
   <p>Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt.<br>
-  Weitere Infos zum Ablauf, den von uns verwendeten Sensoren etc. findest du in den <a href="#details">detaillierten Informationen zur Studie</a>.</p>
-
-  <p><strong>📍Wo &amp; Wann?</strong><br>
-  Die Studie findet vor Ort am Campus Südstadt der TH Köln (Claudiusstraße 1) statt und dauert maximal 90 Minuten.</p>
 
   <p><strong>🎁 Was hast du davon?</strong></p>
   <ul>
@@ -14,6 +10,9 @@
     <li>Lerne spielend mehr über den Klimawandel</li>
     <li>Erfahre hautnah, wie eine wissenschaftliche Studie abläuft und lerne die eingesetzten Sensoren kennen</li>
   </ul>
+
+  <p><strong>🎮 Du hast Lust eine*r von 60 Personen zu sein die unser Spiel testen?</strong><br>
+  Die Studie findet vor Ort am Campus Südstadt der TH Köln (Claudiusstraße 1) statt und dauert maximal 90 Minuten.</p>
 
   <p><strong>👥 Wer kann teilnehmen?</strong></p>
   <ul>
