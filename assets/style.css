@@ -1,4 +1,4 @@
-/* Body und Grundlayout */
+//* Für body, Grundlayout unverändert / Weißraum erhalten */
 body {
   font-family: 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   color: #222222;
@@ -13,32 +13,38 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Container für alle Sections */
-section, #teaser, #details, #datenschutz {
-  max-width: 720px;
-  margin: 4rem auto;
-  padding: 2.5rem 3rem;
-  border-radius: 16px;
-  background-color: #f6f6f6; /* leichtes Grau für weiches Gefühl */
-  border: none;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  transition: box-shadow 0.3s ease;
-}
-
-section:hover, #teaser:hover, #details:hover, #datenschutz:hover {
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-}
-
-/* #teaser spezielle Abhebung */
+/* Nur Teaser mit abgerundetem Rechteck, Hintergrund & Schatten */
 #teaser {
-  background-color: #eaecef;
-  color: #111827; /* dunkles Anthrazit für sehr guten Kontrast */
+  background-color: #eaecef;    /* Helles Grau-Blau */
+  color: #111827;
   font-weight: 500;
   padding: 4rem 4rem;
-  border-radius: 20px;
+  border-radius: 20px;          /* Abrundung */
   margin-bottom: 4rem;
   box-shadow: 0 10px 32px rgba(31, 41, 55, 0.12);
   text-align: center;
+}
+
+/* Für details und datenschutz: keine Hintergrund-Box, sondern nur Abstand und ggf. feine Trennung */
+#details, #datenschutz {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin-bottom: 4rem;          /* Luft nach unten */
+  max-width: 720px;
+}
+
+/* Wenn du sichtbare Trennung möchtest, z.B. dezente Linie unten */
+#details {
+  border-bottom: 1px solid #e3e7ee;  /* sehr helles Grau */
+  padding-bottom: 3rem;
+  margin-bottom: 4rem;
+}
+
+#datenschutz {
+  padding-top: 3rem;
+  /* keine Linie oder andere Abtrennung */
 }
 
 /* Überschriften */
