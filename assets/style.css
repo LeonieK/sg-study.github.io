@@ -11,6 +11,10 @@ body {
   margin-right: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Begrenzung der max. Textbreite für gute Lesbarkeit */
+  max-width: 900px;    /* oder etwa 720-900px je nach Geschmack */
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Nur Teaser mit abgerundetem Rechteck, Hintergrund & Schatten, Farben aus altem CSS */
