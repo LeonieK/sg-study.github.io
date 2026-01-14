@@ -31,8 +31,8 @@ Buche deinen Termin hier:
 
 </div>
 
-<div>  
-<hr id="details" />
+<div id="details">  
+
 # Detaillierte Informationen zur Studie  
 ## Zweck der Studie
 Im Rahmen eines Dissertationsprojekts untersuchen wir, wie sich ein Serious Game auf deinen Lernerfolg auswirkt. Das Serious Game befasst sich mit dem Thema Klimawandel. 
@@ -65,8 +65,7 @@ Falls du noch Fragen hast, melde dich jederzeit gerne bei uns! (leonie.kallabis@
 </div>
 
 <div>
-<hr id="datenschutz" />
-
+<div id="datenschutz" />
 # Datenschutz  
 _ToDo_
 
