@@ -128,17 +128,20 @@ a:focus {
   gap: 2rem;
   margin: 2rem 0 3rem;
 
-  background-color: transparent;        /* kein Hintergrund */
-  border: 4px solid #5B4B40;            /* dunkelbraune, dicke Border */
-  border-radius: 16px;                   /* abgerundete Ecken passend */
-  box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4); /* passender Schatten */
-  padding: 1rem;                        /* etwas Innenabstand für die Bilder */
+  background-color: transparent; /* keine Hintergrundfarbe */
+  padding: 0;                    /* padding auf 0, falls vorhanden */
+  border: none;                  /* Rahmen entfernen, falls gesetzt */
+  box-shadow: none;              /* Schatten entfernen */
+  border-radius: 0;              /* keine abgerundeten Ecken */
 }
 
 .image-row img {
   max-width: 50%;
-  border-radius: 12px;
-  box-shadow: 0 1px 4px rgba(101, 91, 79, 0.15);
+  
+  /* Neuer Stil für die Bilder selbst */
+  border-radius: 16px;                                /* abgerundete Ecken wie Teaser und Button */
+  border: 4px solid #5B4B40;                          /* dicke dunkelbraune Border */
+  box-shadow: 0 4px 12px rgba(91, 75, 64, 0.4);       /* passender Schatten */
 }
 
 /* Footer Farbe */
