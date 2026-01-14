@@ -29,7 +29,6 @@
     <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin buchen</a>
   </div>
 
-</div>
 
 <div id="details">
 
