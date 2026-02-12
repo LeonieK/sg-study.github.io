@@ -65,7 +65,7 @@
   </ol>
 
   <h2>Mögliche Risiken &amp; Unannehmlichkeiten</h2>
-  <p>Das Spiel thematisiert den Klimawandel. Dies kann Gefühle wie Angst, Hilflosigkeit oder Sorge („Eco-Anxiety“) auslösen. Bitte nimm nur an der Studie teil, wenn du dich mit diesem Thema wohlfühlst.</p>
+  <p>Das Spiel thematisiert den Klimawandel. Das Spiel geht mit dem Thema bewusst hoffnungsfoll und bedacht um. Trotzdem möchten wir dich darauf hinweisen, dass die Beschäftigung mit dem Thema zu negativen Gefühlen führen kann.</p>
   <ul>
     <li>Du musst damit einverstanden sein, dass dich die Studienleitung vorsichtig am Kopf und Schlüsselbein für die EEG-Sensoren sowie an der rechten Hand für die EDA-Sensoren berührt.</li>
     <li>Die Elektrodenkontaktpaste kann Rückstände auf Haut und Haaren hinterlassen, die sich jedoch leicht entfernen lassen.</li>
