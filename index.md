@@ -27,8 +27,8 @@
   Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke genutzt. Die ausführliche <a href="#datenschutz">Datenschutzerklärung</a> findest du ebenfalls hier auf der Seite.</p>
 
   <div id="buchung" style="text-align:center; margin: 2rem 0;">
-    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Südstadt buchen</a></div>
-    <a href="https://zeeg.me/leoniekallabis/studienteilnahme-gummersbach" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Gummersbach buchen</a></div>
+    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Südstadt buchen</a>
+    <a href="https://zeeg.me/leoniekallabis/studienteilnahme-gummersbach" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Gummersbach buchen</a>
 </div>
 
 <div id="details">
