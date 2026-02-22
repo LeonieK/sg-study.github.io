@@ -14,7 +14,7 @@
 
   <p><strong>🎮 Du hast Lust eine*r von 60 Personen zu sein die unser Spiel testen?</strong><br></p>
   
-  <p>Besuche uns dafür am 📍Campus Südstadt der TH Köln (Claudiusstraße 1). Der Test dauert maximal 90 Minuten und findet direkt vor Ort statt. 
+  <p>Besuche uns dafür am 📍Campus Südstadt der TH Köln (Claudiusstraße 1) oder am 📍Campus Gummersbach der TH Köln (Steinmüllerallee 6). Der Test dauert maximal 90 Minuten und findet direkt vor Ort statt. 
   Weiter unten kannst du deinen Termin buchen. 👇</p>
 
   <p><strong>👥 Wer kann teilnehmen?</strong></p>
@@ -27,7 +27,10 @@
   Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke genutzt. Die ausführliche <a href="#datenschutz">Datenschutzerklärung</a> findest du ebenfalls hier auf der Seite.</p>
 
   <div id="buchung" style="text-align:center; margin: 2rem 0;">
-    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin buchen</a></div>
+    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Südstadt buchen</a></div>
+</div>
+  <div id="buchung" style="text-align:center; margin: 2rem 0;">
+    <a href="https://zeeg.me/leoniekallabis/studienteilnahme-gummersbach" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Gummersbach buchen</a></div>
 </div>
 
 <div id="details">
