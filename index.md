@@ -28,8 +28,6 @@
 
   <div id="buchung" style="text-align:center; margin: 2rem 0;">
     <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Südstadt buchen</a></div>
-</div>
-  <div id="buchung" style="text-align:center; margin: 2rem 0;">
     <a href="https://zeeg.me/leoniekallabis/studienteilnahme-gummersbach" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Gummersbach buchen</a></div>
 </div>
 
