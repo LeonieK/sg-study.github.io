@@ -14,7 +14,7 @@
 
   <p><strong>🎮 Du hast Lust eine*r von 60 Personen zu sein die unser Spiel testen?</strong><br></p>
   
-  <p>Besuche uns dafür am 📍Campus Südstadt der TH Köln (Claudiusstraße 1) oder am 📍Campus Gummersbach der TH Köln (Steinmüllerallee 6). Der Test dauert maximal 90 Minuten und findet direkt vor Ort statt. 
+  <p>Besuche uns dafür am 📍Campus Gummersbach der TH Köln im Gebäude LC6. Der Test dauert ca. 90 Minuten und findet direkt vor Ort statt. 
   Weiter unten kannst du deinen Termin buchen. 👇</p>
 
   <p><strong>👥 Wer kann teilnehmen?</strong></p>
@@ -27,7 +27,6 @@
   Deine Daten werden streng vertraulich behandelt und nur für Forschungszwecke genutzt. Die ausführliche <a href="#datenschutz">Datenschutzerklärung</a> findest du ebenfalls hier auf der Seite.</p>
 
   <div id="buchung" style="text-align:center; margin: 2rem 0;">
-    <a href="https://zeeg.me/leoniekallabis/sg" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Südstadt buchen</a>
     <a href="https://zeeg.me/leoniekallabis/studienteilnahme-gummersbach" class="btn-primary" target="_blank" rel="noopener">📅Termin Campus Gummersbach buchen</a> </div>
 </div>
 
@@ -40,7 +39,7 @@
 
   <h2>Ablauf der Studie</h2>
   <ol>
-    <li><strong>Begrüßung &amp; Standort</strong><br>Du kommst am Haupteingang der TH Köln Campus Südstadt an. Die Studienleitung (Leonie Kallabis) wird dich abholen und zum Labor begleiten.</li>
+    <li><strong>Begrüßung &amp; Standort</strong><br>Die Studienleitung (Leonie Kallabis) holt dich entweder am Eingang des Gebäudes LC6, oder im Foyer im ersten Stock des Gebäudes ab und begleitet dich dann zum Labor.</li>
     <li><strong>Datenschutz und Einwilligung</strong><br>Im Labor gehen wir gemeinsam die Datenschutzerklärung durch. Bitte wirf vorab schon einen Blick darauf (<a href="#datenschutz">Datenschutzerklärung</a>). Nach deiner Einwilligung starten wir mit dem Anlegen der Sensoren.</li>
     <li><strong>Sensoren anlegen</strong><br>
       <ul>
